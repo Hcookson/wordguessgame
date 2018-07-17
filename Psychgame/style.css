@@ -1,0 +1,27 @@
+html {
+    background: url(../Psychgame/background-background-image-blue-sky-1054218.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Archivo Narrow', sans-serif;
+
+}
+
+h1{
+    text-emphasis-style: bold;
+    font-size: 35px; 
+    font-weight: 800;
+}
+.container {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+#gamecontainer {
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    line-height: 3;
+ 
+}
